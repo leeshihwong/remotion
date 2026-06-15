@@ -1,0 +1,61 @@
+
+> remotion@1.0.0 dev
+> remotion studio
+
+Server ready - Local: [4mhttp://localhost:3000[24m, Network: [4mhttp://198.18.0.1:3000[24m
+Building...
+Built in 7973ms
+[31m"/assets/main-logo2.png" was requested but not found.[39m
+[31mTo import assets from the public/ folder, you must wrap them in staticFile(): https://www.remotion.dev/docs/assets[39m
+[31mChange `"/assets/main-logo2.png"` to `staticFile("/assets/main-logo2.png")` to fix the error.[39m
+[31m"/assets/II_FitLine_IndependentDistributor_4c.png" was requested but not found.[39m
+[31mTo import assets from the public/ folder, you must wrap them in staticFile(): https://www.remotion.dev/docs/assets[39m
+[31mChange `"/assets/II_FitLine_IndependentDistributor_4c.png"` to `staticFile("/assets/II_FitLine_IndependentDistributor_4c.png")` to fix the error.[39m
+To restart - Local: [4mhttp://localhost:3000[24m, Network: [4mhttp://198.18.0.1:3000[24m
+Building...
+[1m[31mERROR[39m[22m in [1m./src/Root.tsx[39m[22m [1m[32m5:0-46[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './Composition' in 'C:\Works\remotion\src'[39m[22m
+Built in 929ms
+To restart - Local: [4mhttp://localhost:3000[24m, Network: [4mhttp://198.18.0.1:3000[24m
+Building...
+Built in 629ms
+Building...
+Built in 996ms
+Building...
+Built in 704ms
+Building...
+Built in 412ms
+To restart - Local: [4mhttp://localhost:3000[24m, Network: [4mhttp://198.18.0.1:3000[24m
+Building...
+[1m[31mERROR[39m[22m in [1m./src/Root.tsx[39m[22m [1m[32m5:0-46[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './Composition' in 'C:\Works\remotion\src'[39m[22m
+Built in 846ms
+Building...
+Built in 655ms
+Building...
+[1m[31mERROR[39m[22m in [1m./src/Root.tsx[39m[22m [1m[32m5:0-46[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './Composition' in 'C:\Works\remotion\src'[39m[22m
+Built in 1245ms
+Building...
+Built in 926ms
+Building...
+Built in 704ms
+Building...
+Built in 3110ms
+Building...
+[1m[31mERROR[39m[22m in [1m./src/Root.tsx[39m[22m [1m[32m5:0-46[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './Composition' in 'C:\Works\remotion\src'[39m[22m
+Built in 1238ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: EPERM: operation not permitted, rename 'C:\Works\remotion\node_modules\.cache\webpack\remotion-development-4.0.475\d3aac5602c6dac5cfd97f62c87dba039\6.pack_' -> 'C:\Works\remotion\node_modules\.cache\webpack\remotion-development-4.0.475\d3aac5602c6dac5cfd97f62c87dba039\6.pack'
+Building...
+Built in 6518ms
+Building...
+[1m[31mERROR[39m[22m in [1m./src/Root.tsx[39m[22m [1m[32m5:0-46[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './Composition' in 'C:\Works\remotion\src'[39m[22m
+Built in 3643ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: TypeError: Cannot read properties of undefined (reading 'length')
+Building...
+Built in 1215ms
+Building...
+Built in 236ms
+To restart - Local: [4mhttp://localhost:3000[24m, Network: [4mhttp://198.18.0.1:3000[24m
